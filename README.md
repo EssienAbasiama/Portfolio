@@ -1,3 +1,8 @@
+This is My Personal Portfolio Site
+URL [essienabasiama.netlify.app]
+NB: Use a desktop for Best Experience 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
